@@ -15,8 +15,8 @@ cell_width = total_width / 7
 
 current_color = 0
 
-for column in range(7):
-    for row in range(7):
+for row in range(7):
+    for column in range(7):
         w.create_rectangle(cell_width * column, cell_height * row,
                            cell_width * (column + 1), cell_height * (row + 1),
                            fill=colors[current_color])

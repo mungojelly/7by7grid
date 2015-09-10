@@ -13,5 +13,5 @@ for color_text in input:
 
 for _ in range(7):
     for _ in range(7):
-        print output.pop() + " ",
+        print output.pop(0) + " ",
     print
