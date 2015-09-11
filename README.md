@@ -10,7 +10,7 @@ engage with right after printing their first hello world.
 
 To print something that will work with the other programs in 7by7grid,
 just print out 49 colors in the normal 6-digit long hex format (like
-#FF0000 for red) separated by any amount of whitespace (like spaces
+\#FF0000 for red) separated by any amount of whitespace (like spaces
 and newlines).
 
 To minimize confusion, all of the programs here should be
