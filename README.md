@@ -1,23 +1,6 @@
+#7by7grid
+A very simple space where programs can play with color.
 
-<!DOCTYPE html>
-<html>
-    <head>
-        <style>
-           table {
-               border-collapse:collapse; 
-               border: none;
-           }
-           td {
-               padding: 0;
-               width: 52px;
-               height: 52px;
-           }
-        </style>
-        <title></title>
-    </head>
-    <body>
-      <h1>7by7grid</h1>
-      A very simple space where programs can play with color.
 <table>
     <tr>
         <td style="background-color:#a0a0a0"></td>
@@ -83,5 +66,4 @@
         <td style="background-color:#009900"></td>
     </tr>
 </table>
-</body>
-</html>
+
